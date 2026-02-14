@@ -65,8 +65,9 @@ Full-stack e-commerce system with transactional workflow and modular backend arc
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AddhyanB/AddhyanB/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/AddhyanB/AddhyanB/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 </p>
+
 
 
 ---
