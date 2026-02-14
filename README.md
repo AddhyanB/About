@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Addhyan%20Bhardwaj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=Addhyan%20Bhardwaj&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20|%20Full%20Stack%20Engineer%20|%20Problem%20Solver&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -11,33 +11,33 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Student  
-- 🤖 Passionate about AI & Machine Learning  
-- 💻 Strong foundation in DSA, OS, DBMS & CN  
+- 🤖 Passionate about Artificial Intelligence & Machine Learning  
+- 💻 Strong in Data Structures & Algorithms  
 - ☁ Exploring AWS & Google Cloud  
-- 🚀 Focused on building scalable real-world applications  
+- 🚀 Building scalable, real-world applications  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Medica AI  
+### 🤖 Medica AI
 AI-powered disease prediction chatbot  
 - Symptom-based structured prediction system  
 - ML backend integrated with responsive chat UI  
 
-### 🧩 Path Finder (Maze Solver)  
+### 🧩 Path Finder (Maze Solver)
 - BFS-based shortest path engine  
 - Interactive maze visualization  
 
-### 🖥 Core Scheduler Simulator  
-- FCFS, SJF (Preemptive & Non-Preemptive), Round Robin & Priority  
-- Gantt chart performance visualization  
+### 🖥 Core Scheduler Simulator
+- FCFS, SJF (Preemptive & Non-Preemptive), Round Robin, Priority  
+- Gantt chart visualization  
 
-### 🛒 Snap Cart  
+### 🛒 Snap Cart
 - Full-stack e-commerce platform  
-- Cart management & secure checkout system  
+- Cart management & secure checkout  
 
-### 💰 Helping Hands  
+### 💰 Helping Hands
 - Fundraising & donation management platform  
 
 ---
@@ -53,20 +53,20 @@ AI-powered disease prediction chatbot
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AddhyanB&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AddhyanB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AddhyanB&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AddhyanB&theme=tokyonight&hide_border=true"/>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AddhyanB&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🐍 Contribution Snake
 
-- Google Cloud – ML & Generative AI Skill Badges  
-- AWS – Cloud Practitioner & ML Foundations  
-- Deloitte – Virtual Internship (Digital Transformation & Cyber Risk)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AddhyanB/AddhyanB/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
