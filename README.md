@@ -52,7 +52,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/AddhyanB/AddhyanB/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+  <img src="https://raw.githubusercontent.com/AddhyanB/About/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
