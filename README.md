@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=280&section=header&text=Addhyan%20Bhardwaj&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=300&section=header&text=Addhyan%20Bhardwaj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=65"/>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=26&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems;Building+Scalable+Applications;AI+%2B+Cloud+Explorer;Consistent+Learner+%7C+Focused+Builder"/>
