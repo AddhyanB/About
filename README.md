@@ -69,7 +69,6 @@ Full-stack e-commerce system with transactional workflow and modular backend arc
 </p>
 
 
-
 ---
 
 ## 🏆 Dynamic Summary
