@@ -1,45 +1,101 @@
-<h1 align="center">👋 Hey there, I'm Addhyan!</h1>
+<h1 align="center">Hi 👋, I'm Addhyan Bhardwaj</h1>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Developer;Full+Stack+Enthusiast;Problem+Solver;Cloud+Learner" />
 </p>
-
-<h3 align="center">  Problem Solver | Tech Explorer</h3>
 
 ---
 
-### 🌍 About Me
+## 🚀 About Me
 
-⚡ I’m a third-year B.Tech student, diving into everything tech-related—from crafting sleek web apps to mastering data structures. Fueled by curiosity and a passion for learning (not by coffee)! 🚀💻
+- 🎓 B.Tech Computer Science Student  
+- 🤖 Building AI-powered systems  
+- 💻 Strong in Data Structures & Algorithms  
+- ☁ Exploring AWS & Google Cloud  
+- 🚀 Focused on solving real-world problems  
 
+---
 
-- 📧 Get in touch: **addhyanbhardwaj3@gmail.com**
-⚡ And when I’m not coding, you’ll probably find me deep into a sci-fi thriller or gaming, because sometimes, the best algorithms are inspired by epic boss battles! 🚀🎮
+## 💼 Experience
 
-### 🌍 Tools and Technologies 
+### Deloitte – Virtual Internship (Forage)
+- Proposed digital transformation & cloud strategies  
+- Performed data analysis & visualization tasks  
+- Practiced cybersecurity threat detection  
+
+---
+
+## 🔥 Projects
+
+### 🤖 Medica AI
+AI-powered disease prediction chatbot  
+- Symptom-based disease prediction  
+- Interactive chat interface  
+- Integrated ML backend with frontend UI  
+
+### 🧩 Path Finder (Maze Solver)
+- BFS-based shortest path algorithm  
+- Interactive maze visualization  
+- Dynamic maze generation  
+
+### 🖥 Core Scheduler Simulator
+- FCFS, SJF, Round Robin & Priority Scheduling  
+- Gantt chart visualization  
+
+### 🛒 Snap Cart
+- Full-stack e-commerce platform  
+- Cart management & secure checkout  
+
+### 💰 Helping Hands
+- Fundraising & donation management system  
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  <!-- Tools and Technologies Logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,flask,django,git,docker,aws,gcp" />
 </p>
 
+---
 
-### 🔗 Let's Connect
-I’m always excited to connect with like-minded developers and tech enthusiasts!
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/addhyan-bhardwaj-730b8b290/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/u/addhyanbhardwaj3/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Competitive%20Coding-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <a href="your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ *Building intelligent systems. Learning every day. Improving consistently.*
