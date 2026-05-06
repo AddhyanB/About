@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech Computer Science Student  
 - 🤖 Focused on AI & Machine Learning  
-- 💻 Strong in Data Structures & Algorithms  
+- 💻 Focusing on Data Structures & Algorithms  
 - ☁ Exploring AWS & Google Cloud  
 - 🚀 Building scalable real-world applications  
 
